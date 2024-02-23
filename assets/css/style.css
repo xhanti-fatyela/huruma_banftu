@@ -600,6 +600,9 @@ body.nav-active { overflow: hidden; }
 .feature-card .card-icon ion-icon { --ionicon-stroke-width: 40px; }
 
 .footer-brand .social-list ion-icon {font-size: 30px;}
+.btn-wrapper .social-list ion-icon {font-size: 30px;}
+
+
 
 
 
